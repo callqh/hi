@@ -6,12 +6,12 @@
   "description": "",
   "author": "Liuqh <528851597@qq.com>",
   "license": "MIT",
-  "homepage": "https://github.com/liuqh0609/hi#readme",
+  "homepage": "https://github.com/callqh/hi#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuqh0609/hi.git"
+    "url": "git+https://github.com/callqh/hi.git"
   },
-  "bugs": "https://github.com/liuqh0609/hi/issues",
+  "bugs": "https://github.com/callqh/hi/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
